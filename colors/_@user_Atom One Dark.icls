@@ -4,11 +4,11 @@
     <property name="created">2022-05-21T17:42:15</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-05-21T17:43:53</property>
+    <property name="modified">2022-05-21T18:47:10</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_FONT_SIZE" value="15" />
