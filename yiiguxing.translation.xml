@@ -1,4 +1,9 @@
 <application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Avoid passing null as the view root (needed to resolve layout parameters on the inflated layout's root element)" />
+    </histories>
+  </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1653129002563" />
   </component>
