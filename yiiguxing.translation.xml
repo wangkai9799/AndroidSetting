@@ -7,4 +7,7 @@
   <component name="Cache">
     <option name="lastTrimTime" value="1653129002563" />
   </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
+  </component>
 </application>
