@@ -1,8 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Installed Build Tools revision 31.0.0 is corrupted." />
       <item value="Avoid passing null as the view root (needed to resolve layout parameters on the inflated layout's root element)" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1653129002563" />
