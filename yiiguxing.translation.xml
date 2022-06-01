@@ -1,5 +1,23 @@
 <application>
+  <component name="AppStorage">
+    <histories>
+      <item value="The number of times the animation will repeat. The default is 0, which means the animation will play only once" />
+      <item value="fallback Res" />
+      <item value="lottie fallback Res" />
+      <item value="Installed Build Tools revision 31.0.0 is corrupted." />
+      <item value="Avoid passing null as the view root (needed to resolve layout parameters on the inflated layout's root element)" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="3" />
+        <entry key="ENGLISH" value="4" />
+      </map>
+    </option>
+  </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653129002563" />
+    <option name="lastTrimTime" value="1653993130974" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
