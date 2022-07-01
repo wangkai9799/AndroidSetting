@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Glide treats LayoutParams.WRAP_CONTENT as a request for an image the size of this device's screen dimensions." />
       <item value="The number of times the animation will repeat. The default is 0, which means the animation will play only once" />
       <item value="fallback Res" />
       <item value="lottie fallback Res" />
@@ -9,8 +10,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
